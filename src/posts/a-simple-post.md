@@ -7,18 +7,17 @@ tags:
   - what camera should I buy
   - opinion
 ---
-If you are asking this question, please, please read this before you start asking on forums / facebook. Much of this is my opinion, but this question is very unlikley to give you what you are looking for. Hopefully this blog post will help you understand what you need to be asking, and why. \
+If you are asking this question, please, please read this before you start asking on forums or Facebook. Much of this is my opinion, but this question is very unlikley to give you what you are looking for. Hopefully this post will help you understand what you need to be asking, and why. I should explain, i'm writing this as a kind of penance for any bad answers i've given in the past, and to help others learn from my many (often expensive) mistakes.\
 \
 As an avid hobby photographer, I get asked this question a lot. It's a sensible question to anyone that is new to photography, but the answer is never straight forward.
 
 This is a valid point, but an important distinction need sot be made. When starting in photography there are 5 thing that really matter. I'll break these down as we go through the post.
 
 1. The photographer
-2. The camera
-3. The lens
-4. The subject & composition
-5. The environment
-6. Post processing
+2. The equipment
+3. The subject & composition
+4. The environment
+5. Post processing
 
 
 
@@ -39,10 +38,10 @@ These questions will allow people to provide a much better response to your ques
 
 
 
-# Sidestep meaningless and confusing answers
+# Question photography folk lore
 
- I've found many of the answers hypocritical to say the least, and just parroting photography folk lore.  Yes, this will attract much hate but before you respond, ask yourself why you aren't using a camera phone for all your shots ? If you are, then that is awesome and I have maximum respect.\
-\
+ I've seen and given many hypocritical answers. Often I was just parroting photography folk lore to try and make myself feel more like a "proper photographer". This will attract much hate but before you shout at your screen, if you are an experienced photographer ask yourself why you own the equipment you own. 
+
 **Full disclosure:** I am just as guilty of this as anyone else, and this post is part of my penance to all the new photographers.
 
 The answers you will see when you are this question will range from 
@@ -53,7 +52,7 @@ The answers you will see when you are this question will range from
 >
 > "It's what is behind the camera that counts"
 
-While these are all very true statements, and meant with good intent, they can often be somewhat misleading. \
+While these are all very true statements, and meant with good intent they can set the new photographer up for failure, which they don't need early on. Enthusiasm is everything.\
 \
 For example, 
 
