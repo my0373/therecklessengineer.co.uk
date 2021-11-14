@@ -78,7 +78,7 @@ This was my original image. I was pretty happy with it. It was the end of summer
 
 ![](https://live.staticflickr.com/65535/51679537114_c9463121c5_k.jpg)
 
-
+*Image: Paulton Batch, Paulton Nr Bristol.*
 
 Then I decided it was good enough to post in a facebook photography forum..... oh my.....
 
@@ -114,6 +114,9 @@ I picked the sky I liked, and it really drew me into the image a bit more and ga
 
 ![](https://live.staticflickr.com/65535/51679537164_002f50151f_k.jpg)
 
+*Image: Paulton Batch with sky replacement, Paulton Nr Bristol.*
+
+\
 I regretted this attempt shortly after hitting post. I heard facebook ping to enraged posters who decided I was not worthy. 
 
 The feedback I recieved was along the lines of
@@ -142,7 +145,7 @@ Later on in this blog i'll talk about the contentious issue of post processing. 
 
 ![](https://live.staticflickr.com/65535/51679748140_71402bf4a9_z.jpg)
 
-
+*Image: Composite image of Paulton Batch, Paulton Nr Bristol.*
 
 As i'm hosting all of my images from Flickr, I'm required to share the link back to the Flickr album. \
 <https://www.flickr.com/photos/matthewyork/albums/72157720140979159>
