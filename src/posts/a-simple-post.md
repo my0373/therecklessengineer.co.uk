@@ -52,16 +52,32 @@ The answers you will see when you are this question will range from
 >
 > "It's what is behind the camera that counts"
 
-While these are all very true statements, and meant with good intent they can set the new photographer up for failure, which they don't need early on. Enthusiasm is everything.\
+While these are all very true statements, and meant with good intent they can set the new photographer up for failure, which they don't need early on. Enthusiasm and excitement is everything. It is what makes us get up at 4am to go and get that shot. \
 \
-For example, 
+A more honest statement would be. 
 
-> "Investing in a good camera isn't necessary, but by investing in a decent camera it is unlikely to make you any worse, and will possibly avoid you realising you've bought into a system that means you'll need to trade your kit in when you decide you want to buy better lenses."
+> "Investing in a good camera isn't necessary at the start, but by investing in a decent camera and glass it is unlikely to make you any worse, and will possibly avoid you realising you've bought into a system that means you'll need to trade your kit in when you decide you want to buy better lenses."
 
-Just to be clear, the point being made by the person making the response, it that someone who has spent 20 years doing portraiture photography is going to be able to pick up an entry level camera and do something amazing. They will know what the camera is capable of, they will understand how to get the most from it, they will know how to control the compostion, posing and external lighting to compliment the strengths of that particular camera. \
+or even
+
+> "Start with an app on your phone that lets you control Aperture, Shutter speed and ISO so you can learn composition and play with the exposure triangle before you invest in an entry level camera that you'll have outgrown in a few years"
+
+
+
+It is true, that someone who has spent 20 years doing portraiture photography is going to be able to pick up an entry level camera and do something amazing. They will know what the camera is capable of, they will understand how to get the most from it, they will know how to control the compostion, posing and external lighting to compliment the strengths of that particular camera. \
 \
-If you are asking the question above, you probably aren't that person. There is nothing wrong with that (I still consider myself to be a beginner), but it doesn't give you the answer you wanted. If it were true that the camera didn't matter why do people spend thousands on camera bodies and even more on lenses ? The reason is that newer cameras provide capabilities that do make a difference. \
-\
+However, that person probably doesn't describe you, there is nothing wrong with that (I still consider myself to be a beginner after 4 years), but it doesn't get you closer to the answer you wanted. Also, consider that if it were true that the camera didn't matter why do people spend thousands on camera bodies and even more on lenses ? 
+
+
+
+> "Newer and higher end cameras do provide capabilities that do make a difference" - Me
+
+
+
+Th
+
+
+
 I can already hear the chants of
 
 > "Eye auto focus is cheating, you won't learn how to focus properly"
