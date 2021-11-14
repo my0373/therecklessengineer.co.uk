@@ -11,8 +11,7 @@ tags:
   - An open letter to my niece as photographer starting out.
 ---
 \
-If you have made it to this site, please, please read this before you take any advice on the internet too seriously. \
-The purpose of this post is to share what i've learned on my photography journey, and hopefully it will help someone else. 
+If you have made it to this site, please, please read this before you take any advice on the internet too seriously. The purpose of this post is to share what i've learned on my photography journey, and hopefully it will help someone else. 
 
 # Why ?
 
@@ -53,6 +52,21 @@ It is a resource to help make you better, but it can also be incredibly destruct
 \
 The internet has allowed us to quickly share our images, and allow others to share our images (somtimes with or without our permission). You will realise everyone has an opinion, it's up to you to objectivly look at that opinion or critisism.
 
+## Unwritten rules of the internet and photography
+
+At some point in your photography journey, you will end up sharing an image on the internet. There are a few unwritten rules to keep you out of trouble.
+
+1. Thou shall not post anyone elses images without credit
+2. Thou shall read the rules of any forum becuase they will be enforced swiftly, and without mercy.
+3. If you don't want your photo critiqued, don't post it. This may come as a surprise but not everyone is capable of filtering their feelings towards your photo, even if the forum says "be nice". Expect to be savaged, and learn from any valid constructive criticism.
+4. Ignore any criticism that isn't constructive. If someone says "that's rubbish" they should explain why or be ignored. You can't learn from something you don't understand. 
+
+> "That which can be asserted without evidence, can be dismissed without evidence" - Christopher Hitchens
+
+5. If it is a composite image, call it a composite image. Otherwise people will assume you are being dishonest. They will notice and call you out. 
+
+
+
 # Criticism
 
 On the face of it, critisism is a really tough thing to hear but it can often be the most important. When I said beforew tat no-one was impartial, I include you. \
@@ -73,8 +87,6 @@ I'd love to tell you this is easy, but try to keep calm. This is exactly the kin
 ### My first serious attempt at sharing an image
 
 This was my original image. I was pretty happy with it. It was the end of summer and it was a hot day. Hand held in the middle of a bramble bush with a view of a local landmark that reminds me of home. 
-
-
 
 ![](https://live.staticflickr.com/65535/51679537114_c9463121c5_k.jpg)
 
@@ -104,13 +116,11 @@ So with a fresh set of eyes and a few hours later I decided to look at what had 
 * The composition isn't the best. There isn't much in the foreground except the My judgement was clouded by why I like the photo, not why others should, would or could. 
 * This group can smell the slightest tweak in Lightroom or Photoshop and will distract.
 
-
-
 I decided that I could probably demonstrate to the group that I had listened to their suggestions by playing around in photoshop to see if I could tweak it a little. I spotted this amazing little button in Photoshop called "Sky Replacement".  \
 \
+I tried to explain that this was a hill and I can't level it. I even shared google street view links to convince people to listen to my reasoning.\
+\
 I picked the sky I liked, and it really drew me into the image a bit more and gave it more depth. I adjusted the hue of the corn to match the sky and cropped it so the foreground was a bit smaller and reposted it.
-
-
 
 ![](https://live.staticflickr.com/65535/51679537164_002f50151f_k.jpg)
 
@@ -155,8 +165,6 @@ The takeaway I wanted to give here is that photography, which is an art, is subj
 \
 As i'm hosting all of my images from Flickr, I'm required to share the link back to the Flickr album. \
 <https://www.flickr.com/photos/matthewyork/albums/72157720140979159>
-
-
 
 # Photography Clichés
 
