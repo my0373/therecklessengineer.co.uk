@@ -102,21 +102,52 @@ So with a fresh set of eyes and a few hours later I decided to look at what had 
 
 * This location means nothing to this group. Without any context or narrative it really could just be a snapshot. 
 * The composition isn't the best. There isn't much in the foreground except the My judgement was clouded by why I like the photo, not why others should, would or could. 
-* This group can smell the slightest tweak in Lightroom or Photoshop and will distract 
+* This group can smell the slightest tweak in Lightroom or Photoshop and will distract.
+
+
+
+I decided that I could probably demonstrate to the group that I had listened to their suggestions by playing around in photoshop to see if I could tweak it a little. I spotted this amazing little button in Photoshop called "Sky Replacement".  \
+\
+I picked the sky I liked, and it really drew me into the image a bit more and gave it more depth. I adjusted the hue of the corn to match the sky and cropped it so the foreground was a bit smaller and reposted it.
 
 
 
 ![](https://live.staticflickr.com/65535/51679537164_002f50151f_k.jpg)
 
-As i'm hosting all of my images from Flickr, I'm required to share the link back to the Flickr album. \
-<https://www.flickr.com/photos/matthewyork/albums/72157720140979159>
+I regretted this attempt shortly after hitting post. I heard facebook ping to enraged posters who decided I was not worthy. 
 
-\
-\
 The feedback I recieved was along the lines of
 
 > \
 > "Terrible, why did you use the fake sky"
+>
+> "The lighting is all wrong"
+>
+> "It looks like you juct copied and pasted the sky in"
+>
+> "it's still not level"
+
+## My Eureka moment
+
+\
+At this point I decided that whatever I did, this wasn't going to end well. However, something I learned from my day job, is that there is always something good to come from failure. The hard bit was figuring out what.\
+\
+For me, I realised where it was going wrong. I was trying to make an image for someone else. I wanted people to like my image, but nothing I cared about came across in the image, and why should they. I asked myself why I took the image, and it was to make **me** happy, anyone else was a bonus.\
+\
+There were some valid points raised, composition, lighting, over saturation etc. but this is where I accepted that I was trying to create an image that wasn't there. So I allowed myself some artistic creativity and combined several images i'd taken over the last few months to create something I was happy with. \
+\
+I'd not ended up with a photograph, but a composite of all the things that matter to me and I don't think I ever shared it back on the group. I did however accept some fo the feedback to enrich my image.\
+\
+Later on in this blog i'll talk about the contentious issue of post processing. It gets very ugly, very quickly. 
+
+![](https://live.staticflickr.com/65535/51679748140_71402bf4a9_z.jpg)
+
+
+
+As i'm hosting all of my images from Flickr, I'm required to share the link back to the Flickr album. \
+<https://www.flickr.com/photos/matthewyork/albums/72157720140979159>
+
+
 
 Don't get me wrong, even as someone with a few years under my belt, this hurt. It hurt a lot. I walked away from my desk and thought "Why did I even 
 
