@@ -1,15 +1,33 @@
 ---
-title: What camera should I buy ?
-metaTitle: What camera should I buy
+title: An open letter to a new photographer.
+metaTitle: An open letter to a new photographer
+metaDesc: An open letter to a new photographer.
 date: 2019-06-18
 tags:
   - photography
   - what camera should I buy
-  - opinion
+  - An open letter to a new photographer
+  - beginner photographer
 ---
-If you are asking this question, please, please read this before you start asking on forums or Facebook. Much of this is my opinion, but this question is very unlikley to give you what you are looking for. Hopefully this post will help you understand what you need to be asking, and why. I should explain, i'm writing this as a kind of penance for any bad answers i've given in the past, and to help others learn from my many (often expensive) mistakes.\
 \
-As an avid hobby photographer, I get asked this question a lot. It's a sensible question to anyone that is new to photography, but the answer is never straight forward.
+If you have made it to this site, please, please read this before you take any advice on the internet too seriously. \
+This post is not intended to tell you what camera to buy, or how to do X like a pro. I just want to help you to ask the right questions and help you on your way. Much of this is my opinion, but based on my own mistakes and things i've learned. 
+
+# Why ?
+
+\
+One of the main reasons i've chosen to write this, is partly for my own family should they become excited in photography, but also as a kind of penance for bad answers i've given others in the past, and to help others learn from my many (often expensive) mistakes.
+
+I have a niece that is just starting out in the world of photography, and I can already see she has the same excitement I do for the world around her. If bothing else, I want her to have somewhere to start with what I consider an honest (by honest, it's my opinion) on the pitfalls of photography at present. **Lilly** - This is meant for you :)
+
+## Context
+
+\
+I am just an average hobby photographer. It's not my main job, and not something i'd ever consider as a living. Mainly becuase I know that "having" to do photography to pay the bills would undermine my reasons for taking it up in the first place. Just for context, I suffer from anxiety and it's very hard to be stressed when you are stood on top of a Welsh mountain with just a camera and coffee flask for company.\
+\
+Another reason i've chosen photography is that my enthisasm for nature and making art (that very often only I love) from the amazing world around us. As someone that never bothered to learn to draw or paint, the camera is my paintbrush and usually a reflection on what excites me at a particular time. It could be asunrise, a sunset or even just a jumping spider that is watching me eat my breakfast :) 
+
+
 
 This is a valid point, but an important distinction need sot be made. When starting in photography there are 5 thing that really matter. I'll break these down as we go through the post.
 
@@ -23,9 +41,11 @@ This is a valid point, but an important distinction need sot be made. When start
 
 # Where is the start ? 
 
-One of the reasons this question is so difficult for others to answer is that they don't know you. They don't know your background, your experience, what makes you excited about a picture or even why you want to take photos. \
+One of the reasons it is hard for others to guide you is that they probably don't what know what excites you about photography. They don't know your background, your experience, what makes you excited about a picture or why you want to take photographs in the first place. There is no such thing as an unbiased photographer. At the risk of sounding all warm and fluffy, it is very personal and most people will respond with what it means to them, what works for them. That doesn't mean their advice should be ignored, it does however, mean that you should get more than one opinion.\
 \
-If you are going to ask this question online, you will get a much better answer by providing some context. Some good things to mention are
+When you choose to ask someone for advice on where to start, you will get a much better answer by providing some context. \
+\
+Some suggestions that will really help guide others would be
 
 * What is your photography experience ?
 * Why are you taking up photography ? 
@@ -52,7 +72,7 @@ The answers you will see when you are this question will range from
 >
 > "It's what is behind the camera that counts"
 
-While these are all very true statements, and meant with good intent they can set the new photographer up for failure, which they don't need early on. Enthusiasm and excitement is everything. It is what makes us get up at 4am to go and get that shot. \
+While these are all very true statements, and meant with the best intentions they can set the new photographer up for failure, which they don't need early on. Enthusiasm and excitement is everything. It is what makes us get up at 4am to go and get that shot. \
 \
 A more honest statement would be. 
 
@@ -74,13 +94,19 @@ However, that person probably doesn't describe you, there is nothing wrong with 
 
 
 
-Th
-
-
-
 I can already hear the chants of
 
-> "Eye auto focus is cheating, you won't learn how to focus properly"
+> "Camera feature X is cheating, you won't learn how to do it properly"
+
+But with most cameras, whatever the feature is, you can probably turn it off. However if your camera does a better job, why not use it. 
+
+What matters, do you (or will you) need / want those capabilities during the lifetime of your camera. It also raises more questions
+
+* How long do you expect to keep your camera for ? 
+
+
+
+
 
 
 
