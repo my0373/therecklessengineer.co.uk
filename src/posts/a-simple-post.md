@@ -1,13 +1,14 @@
 ---
-title: An open letter to a new photographer.
-metaTitle: An open letter to a new photographer
-metaDesc: An open letter to a new photographer.
+title: An open letter to my niece as photographer starting out.
+metaTitle: An open letter to my niece as photographer starting out.
+metaDesc: An open letter to my niece as photographer starting out.
 date: 2019-06-18
 tags:
   - photography
   - what camera should I buy
   - An open letter to a new photographer
   - beginner photographer
+  - An open letter to my niece as photographer starting out.
 ---
 \
 If you have made it to this site, please, please read this before you take any advice on the internet too seriously. \
@@ -29,13 +30,7 @@ Another reason i've chosen photography is that my enthisasm for nature and makin
 
 
 
-This is a valid point, but an important distinction need sot be made. When starting in photography there are 5 thing that really matter. I'll break these down as we go through the post.
 
-1. The photographer
-2. The equipment
-3. The subject & composition
-4. The environment
-5. Post processing
 
 
 
@@ -58,9 +53,50 @@ These questions will allow people to provide a much better response to your ques
 
 
 
-# Question photography folk lore
+# The Internet
 
- I've seen and given many hypocritical answers. Often I was just parroting photography folk lore to try and make myself feel more like a "proper photographer". This will attract much hate but before you shout at your screen, if you are an experienced photographer ask yourself why you own the equipment you own. 
+The internet is the internet. There is good advice, bad advice and just complete hypocracy. there are egos, there are helpful people and there are trolls. You will need to take everything you read with a pinch of salt, and never ever take it personally.\
+\
+It is a resource to help make you better, but it can also be incredibly destructive to morale. I want to give you my advice for making the best of it. \
+\
+The internet has allowed us to quickly share our images, and allow others to share our images (somtimes with or without our permission). You will realise everyone has an opinion, it's up to you to objectivly look at that opinion or critisism.
+
+
+
+# Criticism 
+
+On the face of it, critisism is a really tough thing to hear but it can often be the most important. When I said beforew tat no-one was impartial, I include you. \
+\
+If you have spent a night freezing cold on top of a mountain, relying on pot noodles slowly cooling coffee from a flask to get that epic sunrise with the mist rising in the valley, you are going to be emotinally attached to that image. It's your creation, you made it, when you see that image you'll remember what you went through to capture it, you'll remember how hard and long you waited for that moment. You'll remember the smell of the grass, the mud all over your boots, the sounds all around you. You'll even remember drive home and stopping for a McDonalds sausage and egg McMuffin and how good it tasted! Not to mention the excitement to see what marvel you'd captured and even then probably a few more hours in photoshop or lightroom tweaking it to make it perfect.
+
+You take that image, crop and frame it just how you want, share it on facebook and then the internet says "I don't like the compositon", "The colours look wrong", "cLeArlY PhoToShoPPed". Then the sinking feeling of only a few likes on a group of 1000'000 people. \
+\
+It is devastating, it's happened to me, but it is actually a really important part of growing as a photographer. The most important question you MUST ask, no matter how hard is "Why ?". 
+
+> \
+> An opinion is just an opinion without evidence - Some chap on the internet. 
+
+
+
+Often someone will look at your image and make a decision very quickly if they like it or not, by asking them "why ?" it forces them to examine what bothers them most about it. From an initial meaningless outburst, we can get something to help us.\
+\
+I'd love to tell you this is easy, but try to keep calm. This is exactly the kind of situation that can become tribal very quickly. Remember, there is value in what that person is saying, they just can't or won't express it in a useful way. \
+\
+Some examples i've had in the past.
+
+# Photography Clichés
+
+
+
+\
+ I would say almost everyone i've come across has been helpful, but unconcious bias does play a massive role. The worst example of this is when you ask the question 
+
+> "What camera should I buy ?"  
+>
+> \- Every photographer starting out at some point
+
+\
+I've seen and been guilty of often giving hypocritical answers. It is very easy to just accept what those who have gone before repeat. That is not a path to successOften I was just parroting photography folk lore to try and make myself feel more like a "proper photographer". This will attract much hate but before you shout at your screen, if you are an experienced photographer ask yourself why you own the equipment you own. 
 
 **Full disclosure:** I am just as guilty of this as anyone else, and this post is part of my penance to all the new photographers.
 
@@ -148,18 +184,18 @@ They won't help you on day 1, but a massive part of owning a camera is getting t
 
 I don't say this without personal experience. I started out with a Nikon d5100 and a tamron 18-300 lens (crop sensor). This is a great camera to start with, I learned a lot about the basics of photography. The basic skills I learned were
 
-*
 
-A list of stuff:
 
-* Sed posuere consectetur est at lobortis
-* Aenean lacinia bibendum nulla sed consectetur
-* Sed posuere consectetur est at lobortis
 
-How about an ordered list of stuff:
 
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
 
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+
+\=======
+
+This is a valid point, but an important distinction need sot be made. When starting in photography there are 5 thing that really matter. I'll break these down as we go through the post.
+
+1. The photographer
+2. The equipment
+3. The subject & composition
+4. The environment
+5. Post processing
