@@ -28,13 +28,7 @@ I am just an average hobby photographer. It's not my main job, and not something
 \
 Another reason i've chosen photography is that my enthisasm for nature and making art (that very often only I love) from the amazing world around us. As someone that never bothered to learn to draw or paint, the camera is my paintbrush and usually a reflection on what excites me at a particular time. It could be asunrise, a sunset or even just a jumping spider that is watching me eat my breakfast :) 
 
-
-
-
-
-
-
-# Where is the start ? 
+# Where is the start ?
 
 One of the reasons it is hard for others to guide you is that they probably don't what know what excites you about photography. They don't know your background, your experience, what makes you excited about a picture or why you want to take photographs in the first place. There is no such thing as an unbiased photographer. At the risk of sounding all warm and fluffy, it is very personal and most people will respond with what it means to them, what works for them. That doesn't mean their advice should be ignored, it does however, mean that you should get more than one opinion.\
 \
@@ -51,8 +45,6 @@ Some suggestions that will really help guide others would be
 
 These questions will allow people to provide a much better response to your question. For example, if you live in South West England, have £500 to spend and are obsessed with spiders and have little to no experience then my answer would be very different than if you wanted to do wedding photography. 
 
-
-
 # The Internet
 
 The internet is the internet. There is good advice, bad advice and just complete hypocracy. there are egos, there are helpful people and there are trolls. You will need to take everything you read with a pinch of salt, and never ever take it personally.\
@@ -61,9 +53,7 @@ It is a resource to help make you better, but it can also be incredibly destruct
 \
 The internet has allowed us to quickly share our images, and allow others to share our images (somtimes with or without our permission). You will realise everyone has an opinion, it's up to you to objectivly look at that opinion or critisism.
 
-
-
-# Criticism 
+# Criticism
 
 On the face of it, critisism is a really tough thing to hear but it can often be the most important. When I said beforew tat no-one was impartial, I include you. \
 \
@@ -76,17 +66,61 @@ It is devastating, it's happened to me, but it is actually a really important pa
 > \
 > An opinion is just an opinion without evidence - Some chap on the internet. 
 
-
-
 Often someone will look at your image and make a decision very quickly if they like it or not, by asking them "why ?" it forces them to examine what bothers them most about it. From an initial meaningless outburst, we can get something to help us.\
 \
-I'd love to tell you this is easy, but try to keep calm. This is exactly the kind of situation that can become tribal very quickly. Remember, there is value in what that person is saying, they just can't or won't express it in a useful way. \
+I'd love to tell you this is easy, but try to keep calm. This is exactly the kind of situation that can become tribal very quickly. Remember, there is value in what that person is saying, they just can't or won't express it in a useful way. 
+
+### My first serious attempt at sharing an image
+
+This was my original image. I was pretty happy with it. It was the end of summer and it was a hot day. Hand held in the middle of a bramble bush with a view of a local landmark that reminds me of home. 
+
+
+
+![](https://live.staticflickr.com/65535/51679537114_c9463121c5_k.jpg)
+
+
+
+Then I decided it was good enough to post in a facebook photography forum..... oh my.....
+
+> "The image isn't level, rubbish."\
+> \
+> "Go and learn photography"
+>
+> "There is nothing in the foreground"
+>
+> "It's like a bad postcard"
+>
+> "Turn the saturation down in photoshop"
+>
+> "The sky is so boring"
+
+I was devastated that people didn't love it the way I did. I couldn't understand why they would rip it apart so hard. I stepped away from my desk and went out shooting spider photos to calm down (yes, we all have our peculiarities) and taking photos of jumping spiders is mine.  \
 \
-Some examples i've had in the past.
+All day I couldn't stop thinking about it. Why are they being so harsh ?\
+\
+So with a fresh set of eyes and a few hours later I decided to look at what had been said. 
+
+* This location means nothing to this group. Without any context or narrative it really could just be a snapshot. 
+* The composition isn't the best. There isn't much in the foreground except the My judgement was clouded by why I like the photo, not why others should, would or could. 
+* This group can smell the slightest tweak in Lightroom or Photoshop and will distract 
+
+
+
+![](https://live.staticflickr.com/65535/51679537164_002f50151f_k.jpg)
+
+As i'm hosting all of my images from Flickr, I'm required to share the link back to the Flickr album. \
+<https://www.flickr.com/photos/matthewyork/albums/72157720140979159>
+
+\
+\
+The feedback I recieved was along the lines of
+
+> \
+> "Terrible, why did you use the fake sky"
+
+Don't get me wrong, even as someone with a few years under my belt, this hurt. It hurt a lot. I walked away from my desk and thought "Why did I even 
 
 # Photography Clichés
-
-
 
 \
  I would say almost everyone i've come across has been helpful, but unconcious bias does play a massive role. The worst example of this is when you ask the question 
@@ -118,17 +152,11 @@ or even
 
 > "Start with an app on your phone that lets you control Aperture, Shutter speed and ISO so you can learn composition and play with the exposure triangle before you invest in an entry level camera that you'll have outgrown in a few years"
 
-
-
 It is true, that someone who has spent 20 years doing portraiture photography is going to be able to pick up an entry level camera and do something amazing. They will know what the camera is capable of, they will understand how to get the most from it, they will know how to control the compostion, posing and external lighting to compliment the strengths of that particular camera. \
 \
 However, that person probably doesn't describe you, there is nothing wrong with that (I still consider myself to be a beginner after 4 years), but it doesn't get you closer to the answer you wanted. Also, consider that if it were true that the camera didn't matter why do people spend thousands on camera bodies and even more on lenses ? 
 
-
-
 > "Newer and higher end cameras do provide capabilities that do make a difference" - Me
-
-
 
 I can already hear the chants of
 
@@ -140,27 +168,7 @@ What matters, do you (or will you) need / want those capabilities during the lif
 
 * How long do you expect to keep your camera for ? 
 
-
-
-
-
-
-
-
-
 As a new photographer, there are only some things you can actually control. Let's work our way through the list. Assuming you have no knowledge of photography, you will need to learn the basics. Personally, I found a combination of just getting out with my camera, and a locla 6 week evening college course really useful. 
-
-
-
-
-
-
-
-
-
-
-
-
 
 * Composition
 * Focus
@@ -169,8 +177,6 @@ As a new photographer, there are only some things you can actually control. Let'
 * Lighting
 * Working with people
 * Post processing
-
-
 
 The lens
 
@@ -183,12 +189,6 @@ The environment
 They won't help you on day 1, but a massive part of owning a camera is getting to know it. 
 
 I don't say this without personal experience. I started out with a Nikon d5100 and a tamron 18-300 lens (crop sensor). This is a great camera to start with, I learned a lot about the basics of photography. The basic skills I learned were
-
-
-
-
-
-
 
 \=======
 
