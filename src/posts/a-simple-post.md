@@ -12,7 +12,7 @@ tags:
 ---
 \
 If you have made it to this site, please, please read this before you take any advice on the internet too seriously. \
-This post is not intended to tell you what camera to buy, or how to do X like a pro. I just want to help you to ask the right questions and help you on your way. Much of this is my opinion, but based on my own mistakes and things i've learned. 
+The purpose of this post is to share what i've learned on my photography journey, and hopefully it will help someone else. 
 
 # Why ?
 
