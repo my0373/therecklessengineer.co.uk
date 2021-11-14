@@ -147,12 +147,16 @@ Later on in this blog i'll talk about the contentious issue of post processing. 
 
 *Image: Composite image of Paulton Batch, Paulton Nr Bristol.*
 
+For me, the final image represented what I was trying to express. Family, colours, nature and the village I'm lucky enough to call home. I don't think I ever shared this image with the group, but I did take away a better appreciation of composition, how even small tweaks can be seen as comprimising on artistic integrity. \
+\
+When I finally accepted that this image was for me, so much of that no longer mattered. It was an honest representation of what I wanted in an image. The feedback did influence the final image, but the comments didn't dictate it. \
+\
+The takeaway I wanted to give here is that photography, which is an art, is subjective. Everyoen can have an opinion, and often it's good to dig into why people see it a particular way but trying to make everyone happy leads to comprimise. You must be happy with your work, and doing it for clicks and likes will not end in a happy place. \
+\
 As i'm hosting all of my images from Flickr, I'm required to share the link back to the Flickr album. \
 <https://www.flickr.com/photos/matthewyork/albums/72157720140979159>
 
 
-
-Don't get me wrong, even as someone with a few years under my belt, this hurt. It hurt a lot. I walked away from my desk and thought "Why did I even 
 
 # Photography Clichés
 
